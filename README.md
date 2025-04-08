@@ -1,5 +1,5 @@
 # 💫 About Me:
-Exploring Full Stack development step by step.
+Exploring Full Stack web development step by step.
 
 
 ## 🌐 Socials:
